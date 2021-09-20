@@ -18,7 +18,7 @@ initialise git dans le projet **:Git init**
 **2ème étape:**
 Faire le **lien** entre votre repository **distant** et **local**, pour cela créer un repository sur githup, lorsqu'il est fait récupérer la commande suivant :  git remote add Origin https://urlDuDepot.git. Le lien doit être bien évidemment celui de votre repository. Entrer cette commande sur votre terminal.
 
-**3ème étape(Non obligatoire):**
+**3ème étape(*Non obligatoire*):**
 
 Vérification du lien entre git et github: **git remote -v**
 si les liens de votre repository gitup apparaît tout est bon!
